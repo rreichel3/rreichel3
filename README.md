@@ -1,4 +1,4 @@
-🔒 for GitHub and Microsoft's Azure DevOps
+🔒 for GitHub
 
 
 Thoughts: [rj3.me](https://rj3.me/blog)
